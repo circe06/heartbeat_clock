@@ -68,11 +68,6 @@ function getIdToken() {
 
 
 
-
-
-
-
-
 var userHeartRateData;
 var date;
 var startTime;
